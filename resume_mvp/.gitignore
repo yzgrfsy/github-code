@@ -1,0 +1,6 @@
+﻿*.pyc
+__pycache__/
+*.db
+.env
+app/data/uploads/
+app/data/exports/
